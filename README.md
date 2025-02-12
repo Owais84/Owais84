@@ -1,7 +1,7 @@
-- 👋 Hi, I’m OK
+- 👋 Hi, I’m Owais Khan
 - 🌱 I’m currently learning Cloud and DevOps
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ..
+- 📫 How to reach me mohammadowaiskhan84@gmail.com
 - ⚡ Fun fact: ...
 
 <!---
