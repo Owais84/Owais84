@@ -4,7 +4,7 @@
   <img src="https://github.com/Owais84/Owais84/blob/main/Banner.png" alt="Owais Banner">
 </div>
 
-<h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@devopsshack" target="_blank">DevOpsShack</a></h3>
+<h3 align="center">A passionate DevOps Engineer from India. </h3>
 
 <p align="center">
   <a href="https://github.com/jaiswaladi246">
