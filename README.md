@@ -73,6 +73,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Owais84&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
+![](https://github-readme-stats-ten-gilt.vercel.app/api?username=Owais84&show_icons=true&theme=tokyonight)
+
 ---
 
 ### 👨‍💼 About Me & 🤝 Open to Collaborations
